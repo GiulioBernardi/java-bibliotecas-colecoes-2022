@@ -1,5 +1,6 @@
 # java-bibliotecas-colecoes-2022
 Conteúdo e desafio do módulo Back-end - Java: bibliotecas e coleções do Movimento Codar 2022
+Explicação da minha solução: https://youtu.be/ZbbNw_8CLmA
 
 ## Desafio
 
